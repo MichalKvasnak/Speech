@@ -7,7 +7,7 @@
 
 ## **ÚVOD**
 
-Knihovna slouží pro generování hlasového výstupu za pomocí piezoelektrického měniče připojeného na pin PF0 mikroprocesoru ATMega2560. Logika programu byla navržena společností VoiceSoft v roce 1985 pro počítat Sinclair ZX Spectrum v jeho strojovém kódu. Knihovna je psána na základě této logiky v jazyce C.
+Knihovna realizovaná v rámci bakalářské práce slouží pro generování hlasového výstupu za pomocí piezoelektrického měniče připojeného na pin PF0 mikroprocesoru ATMega2560. Logika programu byla navržena společností VoiceSoft v roce 1985 pro počítat Sinclair ZX Spectrum v jeho strojovém kódu. Knihovna je psána na základě této logiky v jazyce C.
 
 ## **NÁVOD K POUŽITÍ**
 #### **Pro generování hlasového výstupu pomocí piezoelektrického měniče:**
